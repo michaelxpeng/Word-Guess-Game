@@ -1,12 +1,16 @@
 body {
-    background-color: navy;
+    background-color: royalblue;
     color: azure;
 }
-/* 
-#main-body {
-    background-image: url("../images/body.jpg");
-    background-size: 100% cover;
-    color: azure;
-    position: relative;
-    top: -100;
-} */
+
+.background {
+    padding: 10px;
+}
+
+.container {
+    padding: 5px;
+}
+
+.row {
+    padding: 10px;
+}
